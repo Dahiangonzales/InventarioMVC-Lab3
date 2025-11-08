@@ -11,7 +11,7 @@
 Michelle Dahian Diaz
 Juan Jose Gutierrez Rudas
 Lina Maria David Cabrera
-Johan Majin
+Johan Alberto Majin 
 
 ---
 
@@ -32,5 +32,12 @@ El objetivo principal es aplicar buenas prácticas de diseño, modularidad y sep
 - Mostrar todos los productos  
 - Eliminar producto  
 - Salir del sistema  
+
+---
+
+## 🧱 Arquitectura del proyecto
+
+El sistema se estructura en **cuatro capas principales** siguiendo la arquitectura en capas,  
+y dentro de la capa de presentación se aplica el patrón **Modelo–Vista–Controlador (MVC)**:
 
 ---
