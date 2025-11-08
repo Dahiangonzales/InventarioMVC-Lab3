@@ -1,4 +1,4 @@
-# 🧩 InventarioMVC-Lab3
+## 🧩 InventarioMVC-Lab3
 
 *Curso:* Ingeniería de Software I  
 *Docente:* Jorge Andrés Benavides  
@@ -6,6 +6,14 @@
 *Fecha de entrega:* 17 de noviembre de 2025  
 
 ---
+## Autores
+Michelle Dahian Diaz
+Juan Jose Gutierrez Rudas
+Lina Maria David Cabrera
+Johan Majin
+
+---
+
 
 ## 🧭 Descripción del proyecto
 
@@ -25,5 +33,3 @@ El objetivo principal es aplicar buenas prácticas de diseño, modularidad y sep
 - Salir del sistema  
 
 ---
-
-## 🏗 Arquitectura del Proyecto
