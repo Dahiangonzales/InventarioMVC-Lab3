@@ -18,7 +18,7 @@ Permite registrar, consultar, listar, eliminar y buscar joyas por tipo o materia
 
 ## 🧩 Estructura del Proyecto
 
-Directorio-mvc-java/
+InventarioMVC-Lab3/
 ├── model/
 │ ├── Jewelry.java
 │ └── JewelryDAO.java
@@ -103,12 +103,5 @@ El patrón MVC mejora la organización y mantenimiento del código.
 La separación de responsabilidades facilita futuras modificaciones.
 
 Este laboratorio refuerza la comprensión de arquitectura en capas dentro del desarrollo Java.
-
-📄 Licencia
-Proyecto académico desarrollado con fines educativos.
-© 2025 Margy Díaz & Dahian Gonzales – Ingeniería de Software I
-
-yaml
-Copiar código
 
 ---
