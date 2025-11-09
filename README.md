@@ -7,8 +7,10 @@ Permite registrar, consultar, listar, eliminar y buscar joyas por tipo o materia
 ---
 
 ## 👩‍💻 Integrantes del Proyecto
-- **Margy Díaz**
-- **Dahian Gonzales**
+- **Juan Jose Gutierrez Rudas**
+- **Lina Maria David Cabrera**
+-  **Dahian Michelle Gonzales Diaz**
+-   **Johan Alberto Majin**
 
 **Asignatura:** Ingeniería de Software I  
 **Docente:** Jorge Andrés Benavides  
